@@ -5,84 +5,84 @@ workflow "Push workflow" {
   ]
 }
 
-workflow "Scheduled workflow 1" {
+workflow "Weekend workflow 1" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 2" {
+workflow "Weekend workflow 2" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 3" {
+workflow "Weekend workflow 3" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 4" {
+workflow "Weekend workflow 4" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 5" {
+workflow "Weekend workflow 5" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 6" {
+workflow "Weekend workflow 6" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 7" {
+workflow "Weekend workflow 7" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 8" {
+workflow "Weekend workflow 8" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 9" {
+workflow "Weekend workflow 9" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 10" {
+workflow "Weekend workflow 10" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 11" {
+workflow "Weekend workflow 11" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
   ]
 }
 
-workflow "Scheduled workflow 12" {
+workflow "Weekend workflow 12" {
   on = "schedule(* * * * 6,0)"
   resolves = [
     "hi",
